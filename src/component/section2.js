@@ -13,7 +13,7 @@ return(
     <div >
         <div className='row'>
 
-            <div className='col-6'>
+            <div className='col-lg-6 col'>
             <img src={person} id='id2'/>
 
             <div className='centered'>

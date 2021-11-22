@@ -11,11 +11,11 @@ return(
 
         <div className='row'>
         
-         <div className='col-6'>
+         <div className='col-lg-6 col'>
          <br></br><br></br><br></br>
         <p style={{fontFamily:'Headers/H3' , fontSize:'38px'}} id='id1'><b>Our Story</b></p>
          </div>
-         <div className='col-lg-3 col-sm-5'>
+         <div className='col-lg-3 col-sm-5' id='up'>
          <p style={{textAlign:'justify', fontFamily:'Body Large/Body Large Regular'}}>
          <br></br><br></br><br></br>
          Melissa Bentivoglio and Lee Belzberg have paired together their extensive backgrounds of elite fitness 

@@ -1,19 +1,33 @@
 @media  (max-width: 1200px) 
  {
     #id1{
-        margin-top: 75px;
+        margin-top: -45px;
+        margin-left: -15px;
+    }
+    #up{
+      margin-top: -55px;
+      padding-left: 40px;
+      padding-right: 40px;
     }
     #id2{
         width: 400px;
         height: 520px;
-        margin-top: 70px;
+        margin-top: -73px;
       }
       #id4{
-        margin-left: 50px;
+        margin-left: 10px;
+        margin-top: -90px;
     }
+    #idd4{
+      margin-left: 10px;
+      margin-top: -70px;
+  }
+  #up{
+    margin-top: -55px;
+  }
 #id5{
- width: 170px;
- height: 45px;
+ width: 150px;
+ height: 38px;
    }
    #id9{
      margin-top: 99px;
@@ -39,15 +53,16 @@
 }
 .centered {
   position: absolute;
-  top: 104%;
+  top: 84%;
   left: 7%;
   transform: translate(-55%, -70%);
+  
 }
 .top-right 
 {
-  margin-left: 310px;
-  width: 300px;
-  margin-top: -650px;
+  margin-left: 10px;
+  width: 395px;
+  margin-top: 10px;
 }
 #f{
  display: none;
@@ -55,10 +70,19 @@
 #m{
  display: none;
 }
+#ch{
+  font-size: 30px;
+}
  }
 
  @media  (min-width: 1201px) 
  {
+   #ch{
+     font-size: 50px;
+   }
+   #lside{
+   margin-left: 80px;
+   }
    #f{
      margin-left: 1658px;
      margin-top: -1750px;

@@ -9,7 +9,7 @@ return(
     <div>
 
 <div className='row'>
-    <div className='col-lg-3 col-sm-5' id='id4'>
+    <div className='col-lg-3 col-11' id='id4'>
 
 <br></br><br></br>
 <p style={{textAlign:'justify'}}>
@@ -24,7 +24,7 @@ worldwide. Mastrov is also a member of the Sacramento Kings ownership group.
 </p>
     </div>
 
-    <div className='col-lg-3 col-sm-5 offset-1' >
+    <div className='col-lg-3 col-11 offset-1' id='idd4' >
 
     <br></br><br></br>
 <p style={{textAlign:'justify'}}>
