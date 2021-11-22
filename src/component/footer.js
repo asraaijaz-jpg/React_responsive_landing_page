@@ -14,23 +14,19 @@ return(
     <div style={{backgroundColor:'black' , color:'#FFFFFF'}}>
 
 <br></br>
-
+<br></br>
 <div className='row'>
 
-<div className='col-lg-2 col-sm-5 offset-1'>
+<div className='col-lg-3 col-sm-5 offset-1'>
     
-<p style={{fontFamily:'Times New Roman' , textAlign:'justify'}}>
-<b style={{fontSize:'30px' , fontFamily:'Subheader/S2'}}>contact</b><br></br><br></br>
+<p style={{fontFamily:'Times New Roman' , textAlign:'justify' , fontSize:'30px'}}>contact</p>
 
-<span style={{fontSize:'17px'}}>info@framefitness.com</span><br></br><br></br>
+<p style={{fontSize:'17px' , textAlign:'justify'}}>info@framefitness.com</p>
+<p style={{fontSize:'17px' , textAlign:'justify'}}>Frame Innovative Technologies Corp.</p>
+<p style={{fontSize:'17px' , textAlign:'justify' , marginTop:'-14px'}}>265 S. Western Avenue</p>
+<p style={{fontSize:'17px' , textAlign:'justify', marginTop:'-14px'}}>P.O. Box #741940</p>
+<p style={{fontSize:'17px' , textAlign:'justify', marginTop:'-14px'}}>Los Angeles, CA 90004-9998</p>
 
-<span style={{fontSize:'17px'}}>Frame Innovative Technologies Corp.
-265 S. Western Avenue
-<br></br>
-P.O. Box #741940
-<br></br>
-Los Angeles, CA 90004-9998</span>
-</p>
 
 <br></br>
 
@@ -47,7 +43,7 @@ Los Angeles, CA 90004-9998</span>
 
 <div className='col-1' id='id8'>
 <img src={fb}/>
-<br></br><br></br>
+<br></br><br></br><br></br>
 </div>
 </div>
 
@@ -59,8 +55,8 @@ Los Angeles, CA 90004-9998</span>
 
 
 
-<div className='col-3' id='id10'>
-<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+<div className='col-3 ' id='tou'>
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br>
 
 <p style={{fontFamily:'Times New Roman' , fontSize:'19px' , textAlign:'right'}} >
 <u>Terms and Conditions</u></p>

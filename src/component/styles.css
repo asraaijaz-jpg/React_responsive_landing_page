@@ -46,10 +46,7 @@
  }
  #id9{
   margin-left: -40px;
-  margin-top: 130px;
-}
- #id10{
-  margin-top: -92px;
+  margin-top: 40px;
 }
 .centered {
   position: absolute;
@@ -73,10 +70,17 @@
 #ch{
   font-size: 30px;
 }
+#tou{
+  margin-top: -100px;
+  margin-left: 150px;
+}
  }
 
  @media  (min-width: 1201px) 
  {
+   #tou{
+     margin-left: -120px;
+   }
    #ch{
      font-size: 50px;
    }
@@ -127,7 +131,8 @@
      height: 45px;
        }
        #id6{
-         margin-left: 85px;
+         margin-left: 72px;
+         margin-top: -13px;
        }
        #id7{
         margin-left: -73px;
@@ -137,6 +142,7 @@
       }
       #id9{
         margin-top: 75px;
+        margin-left: -200px;
       }
     
  } 
